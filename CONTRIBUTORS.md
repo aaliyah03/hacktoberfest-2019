@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Aaliyah Ahmed](https://github.com/aaliyah03)
+- Place: Maharashtra, India
+- Bio: Student
+- GitHub: [aaliyah03](https://github.com/aaliyah03)
